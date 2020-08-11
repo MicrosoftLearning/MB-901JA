@@ -1,11 +1,11 @@
 ﻿---
 lab:
     title: 'ラボ 01: Dynamics 365 Salesを調査'
-    module: 'モジュール 05: Dynamics 365 Sales の概要'
+    module: 'モジュール 03: Dynamics 365 Sales の概要'
 ---
 
 # MB-901: Dynamics 365 Sales
-## モジュール 5、ラボ 1 – Dynamics 365 の販売を調査する
+## モジュール 3、ラボ 1 – Dynamics 365 の販売を調査する
 
 **前提条件:** この実習の手順を実行する前に、次のタスクを実行します。
 

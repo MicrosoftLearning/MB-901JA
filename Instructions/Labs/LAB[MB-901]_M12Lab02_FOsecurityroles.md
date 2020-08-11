@@ -1,11 +1,11 @@
 ﻿---
 lab:
     title: 'ラボ 02: Dynamics 365 Finance and Operations アプリケーションのセキュリティ ロールを確認する'
-    module: 'モジュール 03: Dynamics 365 のセキュリティについて理解する'
+    module: 'モジュール 12: Dynamics 365 のセキュリティについて理解する'
 ---
 
 # MB-901: Dynamics 365 の基礎
-## モジュール 3、ラボ 2 - Dynamics 365 Finance and Operations アプリケーションのセキュリティ ロールの調査
+## モジュール 12、ラボ 2 - Dynamics 365 Finance and Operations アプリケーションのセキュリティ ロールの調査
 
 ### ロールを除外する
 

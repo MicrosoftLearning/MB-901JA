@@ -1,11 +1,11 @@
 ﻿---
 lab:
     title: 'ラボ 01: Dynamics 365 Marketing の探索'
-    module: 'モジュール 06: Dynamics 365 Marketing の概要'
+    module: 'モジュール 04: Dynamics 365 Marketing の概要'
 ---
 
 # MB-901: Dynamics 365 の基礎 
-## モジュール 6、ラボ 1 -  Dynamics 365 Marketing について
+## モジュール 4、ラボ 1 -  Dynamics 365 Marketing について
 
 **前提条件:** この実習の手順を実行する前に、次のタスクを実行します。 
 1. **マーケティング** > **ファイル**に移動します。  

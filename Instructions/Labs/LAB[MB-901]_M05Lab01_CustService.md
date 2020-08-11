@@ -1,11 +1,11 @@
 ﻿---
 lab:
     title: 'ラボ 01: Dynamics 365 Customer Service の調査'
-    module: 'モジュール 07: Dynamics 365 Customer Service の概要'
+    module: 'モジュール 05: Dynamics 365 Customer Service の概要'
 ---
 
 # MB-901: Dynamics 365 の基礎 
-## モジュール 7、ラボ 1 - Dynamics 365 カスタマー サービスの調査 
+## モジュール 5、ラボ 1 - Dynamics 365 カスタマー サービスの調査 
 
 **前提条件:** この実習の手順を実行する前に、次のタスクを実行します。 
 
