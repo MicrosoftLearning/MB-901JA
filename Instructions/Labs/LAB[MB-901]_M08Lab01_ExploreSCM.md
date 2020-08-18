@@ -1,10 +1,10 @@
----
+﻿---
 lab:
     title: 'ラボ 01: Dynamics 365 サプライ チェーン マネジメントの確認'
-    module: 'モジュール 08: Dynamics 365 サプライチェーンマネジメントの概要'
+    module: 'モジュール 08: Dynamics 365 Supply Chain Management の概要'
 ---
 
-# MB-901: Dynamics 365 の基礎 
+# MB-901: Dynamics 365 の基本 
 ## モジュール 8、ラボ 1 - Dynamics 365 サプライ チェーン管理の確認
 
 ### 製品を作成する

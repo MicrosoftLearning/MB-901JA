@@ -1,10 +1,10 @@
----
+﻿---
 lab:
     title: 'ラボ 01: Dynamics 365 Finance の詳細'
     module: 'モジュール 07: Dynamics 365 Finance の概要'
 ---
 
-# MB-901: Dynamics 365 の基礎 
+# MB-901: Dynamics 365 の基本 
 ## モジュール 7、ラボ 1 - Dynamics 365 Finance の詳細 
 
 
