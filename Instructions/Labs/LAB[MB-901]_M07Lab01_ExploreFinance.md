@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'ラボ 01: Dynamics 365 Finance の詳細'
     module: 'モジュール 07: Dynamics 365 Finance の概要'
