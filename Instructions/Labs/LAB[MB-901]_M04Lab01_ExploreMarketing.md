@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'ラボ 01: Dynamics 365 Marketing の探索'
     module: 'モジュール 04: Dynamics 365 Marketing の概要'
