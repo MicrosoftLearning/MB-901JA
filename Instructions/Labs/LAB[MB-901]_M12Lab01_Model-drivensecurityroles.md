@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'ラボ 01: Dynamics 365 モデル駆動型アプリケーションのセキュリティ ロールを調査する'
     module: 'モジュール 12: Dynamics 365 Security の確認'

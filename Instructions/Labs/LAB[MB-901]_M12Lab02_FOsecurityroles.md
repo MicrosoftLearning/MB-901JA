@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'ラボ 02: Dynamics 365 Finance and Operations アプリケーションのセキュリティ ロールを確認する'
     module: 'モジュール 12: Dynamics 365 Security の確認'
