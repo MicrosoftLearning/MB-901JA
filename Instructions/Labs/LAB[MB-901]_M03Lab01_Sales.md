@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '課題 01: Dynamics 365 Salesを調査'
     module: 'モジュール 03: Dynamics 365 Sales の概要'
