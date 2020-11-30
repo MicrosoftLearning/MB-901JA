@@ -15,7 +15,7 @@ Windows のライブ ID を使用して Power Apps にサインインします�
 1. Power Platform 管理センターにアクセスします。
 12.	「**環境**」 をクリックします。 
 13.	試用版の CRM 環境をクリックします。 
-14	「![Dynamics 365 管理センター](https://port.crm.dynamics.com/G/Instances/InstancePicker.aspx?redirect=False0)」 のハイパーリンクをクリックします。 
+14.	「![Dynamics 365 管理センター](https://port.crm.dynamics.com/G/Instances/InstancePicker.aspx?redirect=False0)」 のハイパーリンクをクリックします。 
 15.	**GTLPowerApps** を選択します。 
 16.	「**開く**」 をクリックします。
 17.	**「新しいアプリを作成」** をクリックします。
