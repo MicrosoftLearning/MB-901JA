@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '課題 01: Dynamics 365 Customer Service の調査'
     module: 'モジュール 05: Dynamics 365 Customer Service の概要'
